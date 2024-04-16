@@ -1,3 +1,13 @@
-p {
-    font-family: papyrus;
+.special_text {
+    font-style: italic;
+    font-size: medium;
+    color: rgb(38, 102, 221);
+}
+
+.bullets {
+    font-size: medium;
+}
+
+.center_text {
+    text-align: center;
 }
